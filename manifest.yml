@@ -1,0 +1,7 @@
+---
+applications:
+- name: continuous-delivery
+  memory: 128M
+  path: .
+  command: node server.js
+  timeout: 180

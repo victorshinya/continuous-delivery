@@ -17,7 +17,8 @@ module.exports = (req, res) => {
         } else {
             res.json({
                 success: true,
-                message: 'Ok'
+                message: 'Ok',
+                response: newTodo
             })
         }
     })
