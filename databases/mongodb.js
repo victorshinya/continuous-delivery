@@ -2,6 +2,8 @@
 
 // https://github.com/Automattic/mongoose
 const mongoose = require('mongoose')
+// https://github.com/motdotla/dotenv
+require('dotenv').config()
 
 /**
  * Connect to a MongoDB
