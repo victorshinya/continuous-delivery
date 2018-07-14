@@ -17,3 +17,7 @@ Tudo começa criando uma instancia do serviço dentro do [Catálogo no IBM Cloud
 Como exemplo de uma esteira completa, temos uma cadeia de ferramentas usada para criação e manutenção de um microserviço. Esta cadeia tem como objetivo, entregar novas versões da solução em ambiente de desenvolvimento, teste e produção. Cada ambiente em um local separado, mas todos integrados com os serviços de comunicação (Slack), gerenciamento de incidentes (PagerDuty), controle de versionamento (Git) e reportes do uso de DevOps (DevOps Insights).
 
 ![Cadeia de Ferramentas de um Microserviço](https://github.com/victorshinya/continuous-delivery/blob/master/screenshots/toolchain-microservices.png)
+
+## Testar a aplicação
+
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/victorshinya/continuous-delivery)
