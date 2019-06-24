@@ -10,7 +10,7 @@ No momento, usaremos esta aplicação em Node.js com Express.js e MongoDB (bibli
 
 Com o IBM Continuous Delivery, você consegue criar, testar e entregar aplicativos usando práticas de DevOps. Você pode criar e configurar uma nova cadeia de ferramentas a partir de um modelo padrão disponível ou criar um customizado utilizando ferramentas conhecidas como Github, Jenkins, SonarQube, Slack e outros.
 
-Tudo começa criando uma instancia do serviço dentro do [Catálogo no IBM Cloud](https://console.bluemix.net). Em dois cliques você adiciona este serviço no seu Dashboard e começa a configurar toda esteira de DevOps.
+Tudo começa criando uma instancia do serviço dentro do [Catálogo no IBM Cloud](https://cloud.ibm.com). Em dois cliques você adiciona este serviço no seu Dashboard e começa a configurar toda esteira de DevOps.
 
 ![Continuous Delivery no Catálogo do IBM Cloud](https://github.com/victorshinya/continuous-delivery/blob/master/screenshots/continuous-delivery-no-catalogo.png)
 
@@ -20,4 +20,4 @@ Como exemplo de uma esteira completa, temos uma cadeia de ferramentas usada para
 
 ## Testar a aplicação
 
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/victorshinya/continuous-delivery)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/victorshinya/continuous-delivery.git)
